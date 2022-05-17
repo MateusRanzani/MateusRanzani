@@ -55,7 +55,7 @@ Front-End Developer 🖖
 
 <p  align="center">
 <td width="50%" align="center">
-   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MateusRanzani&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MateusRanzani&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
 </td>
   
 <td width="50%" align="center">
