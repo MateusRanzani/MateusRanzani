@@ -50,6 +50,7 @@ Front-End Developer 🖖
  📚 Experiences:
 <a href="https://esquadros.com.br/"> <br>📌 FrontEnd Developer in Esquadros  (Currently) </a>
 </p>
+
 <br>
 
 <p  align="center">
