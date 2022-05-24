@@ -4,7 +4,7 @@
   Mateus Ranzani
 </h1>
 
-<img src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122125/22b22287602523.5dbd29081561d.gif" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122125/22b22287602523.5dbd29081561d.gif" min-width="300px" max-width="300px" width="300px" align="right">
   
 <br>
   
@@ -13,7 +13,7 @@ Front-End Developer 🖖
   <br>
   22 years 🚀
   <br>
-  Studying at UNINTER (Analysis and systems development) 🎓
+  Studying at UNINTER <br>(Analysis and systems development) 🎓
   <br>
   Franca, SP 🌎
 </p>
