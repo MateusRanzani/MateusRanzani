@@ -1,11 +1,7 @@
-
-
+<img src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122125/22b22287602523.5dbd29081561d.gif" min-width="300px" max-width="300px" width="300px" align="right">
 <h1>
   Mateus Ranzani
 </h1>
-
-<img src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122125/22b22287602523.5dbd29081561d.gif" min-width="300px" max-width="300px" width="300px" align="right">
-  
 <br>
   
 <p align="left"> 
