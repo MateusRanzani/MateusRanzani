@@ -1,25 +1,26 @@
-<img src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122125/22b22287602523.5dbd29081561d.gif" min-width="300px" max-width="300px" width="300px" align="right">
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" min-width="325px" max-width="325px" width="325px" align="right">
 <h1>
   Mateus Ranzani
 </h1>
+  
 <br>
   
 <p align="left"> 
-Front-End Developer 🖖
-  <br>
-  22 years 🚀
-  <br>
-  Studying at UNINTER <br>(Analysis and systems development) 🎓
-  <br>
-  Franca, SP 🌎
-</p>
+👋 Hello! Welcome to my Github profile.
+ <br>
+Front-End Developer 🛰️
+<br>
+Currently, I work as a developer and study at UNINTER (Analysis and systems development) 🎓, and i live in the city of Franca - São Paulo
+<br>
 
 <p align="left">
   💻 Technologies:
 </p>
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
-
+  <code>
+    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"   alt="Javascript"/>
+  </code>
   <code>
     <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
   </code>
