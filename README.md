@@ -66,7 +66,7 @@ Currently, I work as a developer and study at UNINTER (Analysis and systems deve
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <p align="left">
-  💌 Contact links: ⤵️
+  Contact links: ⤵️
 </p>
 
 <p align="left">
