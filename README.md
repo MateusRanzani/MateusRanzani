@@ -1,5 +1,5 @@
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" min-width="325px" max-width="325px" width="325px" align="right">
+<img align="right" src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gifv" width=500/>
 <h1>
   Mateus Ranzani
 </h1>
@@ -50,16 +50,6 @@ Currently, I work as a developer and study at UNINTER (Analysis and systems deve
 
 <br>
 
-<p  align="center">
-<td width="50%" align="center">
-   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MateusRanzani&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
-</td>
-  
-<td width="50%" align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRanzani&layout=compact&langs_count=7&theme=radical"/>
-  </td>
-  
-</tr>
 </table>
 
 <br>
@@ -70,6 +60,8 @@ Currently, I work as a developer and study at UNINTER (Analysis and systems deve
 </p>
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/mateus-ranzani-89744421b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwsJWHqHhPsCMkDSPkhjdCTnMcZMqBNzkKSNHrkkgxFKXqgbrgmkWdrgzwhkvNnNFgVgKq" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://api.whatsapp.com/send?phone=5516988652219&text=Mateus%20Ranzani%20(Desenvolvedor%20Front-End)" alt="WhatsApp">
@@ -78,9 +70,21 @@ Currently, I work as a developer and study at UNINTER (Analysis and systems deve
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/mateus_ranzani/" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mateus-ranzani-89744421b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p> 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1px"> 
 <br>  
+  
+  
+<p  align="center">
+<td width="50%" align="center">
+   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MateusRanzani&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
+</td>
+  
+<td width="50%" align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRanzani&layout=compact&langs_count=7&theme=radical"/>
+ </td>
+  
+</tr>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MateusRanzani&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
