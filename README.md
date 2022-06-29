@@ -1,65 +1,55 @@
-<br>
-<img align="right" src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gifv" width=500/>
-<h1>
+<!-- <br>
+<img align="right" src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gifv" width=500/> -->
+<h1 align="center">
   Mateus Ranzani
 </h1>
   
 <br>
   
-<p align="left"> 
+<p align="center"> 
 👋 Hello! Welcome to my Github profile.
- <br>
-Front-End Developer 🛰️
+<br><br>
+I am currently studying Systems Analysis and Development at UNINTER.
 <br>
-Currently, I work as a developer and study at UNINTER (Analysis and systems development) 🎓, and i live in the city of Franca - São Paulo
+In search of new knowledge, I am specializing as a Full Stack programmer, web and mobile.
+I have experience as a graphic designer, and started in programming as a front-end developer.
 <br>
+</p>
 
-<p align="left">
+<br>
+<p align="center">
   💻 Technologies:
 </p>
 
-  <code>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"   alt="Javascript"/>
-  </code>
-  <code>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
-  </code>
-  <code>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
-  </code>
-  <code>
-    <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="REACT"/>
-  </code>
-  <code>
-    <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" alt="Python"/>
-  </code>  
-  <code>
-    <img height="32" src="https://w7.pngwing.com/pngs/423/333/png-transparent-mysql-logo-database-join-table-blue-furniture-text-thumbnail.png" alt="MySQL"/>
-  </code>
-  <code>
-    <img height="32" src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" alt="MySQL"/>
-  </code>
-</code>
-
-<br> <br> 
-
-<p align="left">
- 📚 Experiences:
-<a href="https://esquadros.com.br/"> <br>📌 FrontEnd Developer in Esquadros  (Currently) </a>
+<p align="center">
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"         alt="Javascript"/>
+  &nbsp;
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
+  &nbsp;  
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
+  &nbsp;  
+  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="REACT"/>
+  &nbsp;  
+  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" alt="Python"/>
+  &nbsp;  
+  <img height="32" src="https://w7.pngwing.com/pngs/423/333/png-transparent-mysql-logo-database-join-table-blue-furniture-text-thumbnail.png" alt="MySQL"/>
+  &nbsp;  
 </p>
 
 <br>
 
-</table>
+<p align="center">
+📚 Experiences:
+<a href="https://esquadros.com.br/"> <br>📌 Developer in Esquadros  (Currently) </a>
+</p>
 
 <br>
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<p align="left">
+
+<p align="center">
   Contact links: ⤵️
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mateus-ranzani-89744421b/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwsJWHqHhPsCMkDSPkhjdCTnMcZMqBNzkKSNHrkkgxFKXqgbrgmkWdrgzwhkvNnNFgVgKq" alt="Gmail">
