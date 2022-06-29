@@ -2,19 +2,22 @@
   Mateus Ranzani
 </h1>
   
-<br>
   
+<h4 align="center"> 
+  👋 Hello! Welcome to my Github profile. 
+</h4>
+
+<br>
+
 <p align="center"> 
-👋 Hello! Welcome to my Github profile.
-<br><br>
 I am currently studying Systems Analysis and Development at UNINTER.
 <br>
 In search of new knowledge, I am specializing as a Full Stack programmer, web and mobile.
 I have experience as a graphic designer, and started in programming as a front-end developer.
-<br>
 </p>
 
 <br>
+
 <p align="center">
   💻 Technologies:
 </p>
