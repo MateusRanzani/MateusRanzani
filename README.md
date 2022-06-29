@@ -1,5 +1,3 @@
-<!-- <br>
-<img align="right" src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gifv" width=500/> -->
 <h1 align="center">
   Mateus Ranzani
 </h1>
@@ -22,18 +20,17 @@ I have experience as a graphic designer, and started in programming as a front-e
 </p>
 
 <p align="center">
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"         alt="Javascript"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   &nbsp;
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   &nbsp;  
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   &nbsp;  
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="REACT"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   &nbsp;  
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" alt="Python"/>
-  &nbsp;  
-  <img height="32" src="https://w7.pngwing.com/pngs/423/333/png-transparent-mysql-logo-database-join-table-blue-furniture-text-thumbnail.png" alt="MySQL"/>
-  &nbsp;  
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+  &nbsp;
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </p>
 
 <br>
@@ -41,6 +38,7 @@ I have experience as a graphic designer, and started in programming as a front-e
 <p align="center">
 📚 Experiences:
 <a href="https://esquadros.com.br/"> <br>📌 Developer in Esquadros  (Currently) </a>
+<a href="https://esquadros.com.br/"> <br>📌 Graphic designer in CopyPrint </a>
 </p>
 
 <br>
@@ -59,7 +57,7 @@ I have experience as a graphic designer, and started in programming as a front-e
   <a href="https://www.facebook.com/profile.php?id=100023018430289" alt="Facebook">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/mateus_ranzani/" alt="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-thumbnail.png"/></a>
 </p> 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1px"> 
@@ -73,8 +71,4 @@ I have experience as a graphic designer, and started in programming as a front-e
   
 <td width="50%" align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRanzani&layout=compact&langs_count=7&theme=radical"/>
- </td>
-  
-</tr>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MateusRanzani&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</td>
