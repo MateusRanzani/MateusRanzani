@@ -59,16 +59,18 @@ I have experience as a graphic designer, and started in programming as a front-e
   <a href="https://www.instagram.com/mateus_ranzani/" alt="Instagram">
   <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-thumbnail.png"/></a>
 </p> 
+
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1px"> 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1px"> 
+</p> 
+
 <br>  
   
-  
 <p  align="center">
-<td width="50%" align="center">
-   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MateusRanzani&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
-</td>
-  
-<td width="50%" align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRanzani&layout=compact&langs_count=7&theme=radical"/>
-</td>
+  <td width="50%" align="center">
+     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MateusRanzani&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
+  </td>
+  <td width="50%" align="center">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRanzani&layout=compact&langs_count=7&theme=radical"/>
+  </td>
+</p> 
