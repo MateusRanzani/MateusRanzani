@@ -41,7 +41,7 @@ I have experience as a graphic designer, and started in programming as a front-e
 <p align="center">
 📚 Experiences:
 <a href="https://esquadros.com.br/"> <br>📌 Developer in Esquadros  (Currently) </a>
-<a href="https://esquadros.com.br/"> <br>📌 Graphic designer in CopyPrint </a>
+<a href="https://www.copyprint.com.br/"> <br>📌 Graphic designer in CopyPrint </a>
 </p>
 
 <br>
