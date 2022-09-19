@@ -33,9 +33,11 @@ I have experience as a graphic designer, and started in programming as a front-e
   &nbsp;  
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   &nbsp;  
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-  &nbsp;
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+   &nbsp;  
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+   &nbsp;
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 </p>
 
 <br>
