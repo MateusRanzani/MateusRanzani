@@ -57,7 +57,7 @@ I have experience as a graphic designer, and started in programming as a front-e
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mateus-ranzani-89744421b/">
+  <a target:"_blank" href="https://www.linkedin.com/in/mateus-ranzani-89744421b/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwsJWHqHhPsCMkDSPkhjdCTnMcZMqBNzkKSNHrkkgxFKXqgbrgmkWdrgzwhkvNnNFgVgKq" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
