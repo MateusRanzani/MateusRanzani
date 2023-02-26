@@ -16,13 +16,10 @@ I am currently studying Systems Analysis and Development at UNINTER.
 In search of new knowledge, I am specializing as a Full Stack programmer, web and mobile.
 I have experience as a graphic designer, and started in programming as a front-end developer.
 </p>
-
 <br>
-
 <p align="center">
   💻 Technologies:
 </p>
-
 <p align="center">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   &nbsp;
