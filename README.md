@@ -38,9 +38,7 @@ I have experience as a graphic designer, and started in programming as a front-e
   &nbsp;
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </p>
-
 <br>
-
 <p align="center">
 📚 Experiences:
 <a href="https://esquadros.com.br/"> <br>📌 Developer in Esquadros  (Currently) </a>
