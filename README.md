@@ -8,7 +8,6 @@
   👋 Hello! Welcome to my Github profile. 
 </h4>
 <br>
-
 <p align="center"> 
 I am currently studying Systems Analysis and Development at UNINTER.
 <br>
