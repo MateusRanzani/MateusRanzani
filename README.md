@@ -64,9 +64,7 @@ I have experience as a graphic designer, and started in programming as a front-e
 <p  align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1px"> 
 </p> 
-
 <br>  
- 
 <p  align="center">
   <td width="50%" align="center">
      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MateusRanzani&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
