@@ -43,13 +43,10 @@ I have experience as a graphic designer, and started in programming as a front-e
 <a href="https://esquadros.com.br/"> <br>📌 Developer in Esquadros  (Currently) </a>
 <a href="https://www.copyprint.com.br/"> <br>📌 Graphic designer in CopyPrint </a>
 </p>
-
 <br>
-
 <p align="center">
   Contact links: ⤵️
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mateus-ranzani-89744421b/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -64,7 +61,6 @@ I have experience as a graphic designer, and started in programming as a front-e
   <a href="https://www.instagram.com/mateus_ranzani/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p> 
-
 <p  align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1px"> 
 </p> 
