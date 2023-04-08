@@ -6,6 +6,7 @@
   👋 Hello! Welcome to my Github profile. 
 </h4>
 <br>
+
 <p align="center"> 
 I am currently studying Systems Analysis and Development at UNINTER.
 <br>
@@ -13,6 +14,7 @@ In search of new knowledge, I am specializing as a Full Stack programmer, web an
 I have experience as a graphic designer, and started in programming as a front-end developer.
 </p>
 <br>
+
 <p align="center">
   💻 Technologies:
 </p>
