@@ -8,10 +8,10 @@
 <br>
 
 <p align="center"> 
-I am currently studying Systems Analysis and Development at UNINTER.
+I am currently completing my degree in Systems Analysis and Development at UNINTER and pursuing a degree in Accounting at Cruzeiro do Sul University.
 <br>
-In search of new knowledge, I am specializing as a Full Stack programmer, web and mobile.
-I have experience as a graphic designer, and started in programming as a front-end developer.
+I currently work as a Full Stack programmer and have experience as a graphic designer.
+I began my journey in programming as a front-end developer.
 </p>
 <br>
 
