@@ -31,11 +31,8 @@ I began my journey in programming as a front-end developer.
    &nbsp;  
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
    &nbsp;
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-  &nbsp;
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   &nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </p>
 <br>
 <p align="center">
