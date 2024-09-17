@@ -8,7 +8,7 @@
 <br>
 
 <p align="center"> 
-I am currently completing my degree in Systems Analysis and Development at UNINTER and pursuing a degree in Accounting at Cruzeiro do Sul University.
+I am currently completing my degree in Systems Analysis and Development at UNINTER.
 <br>
 I currently work as a Full Stack programmer and have experience as a graphic designer.
 I began my journey in programming as a front-end developer.
