@@ -13,27 +13,7 @@ I am currently completing my degree in Systems Analysis and Development at UNINT
 I currently work as a Full Stack programmer and have experience as a graphic designer.
 I began my journey in programming as a front-end developer.
 </p>
-<br>
 
-<p align="center">
-  💻 Technologies:
-</p>
-<p align="center">
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  &nbsp;
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  &nbsp;  
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  &nbsp;  
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  &nbsp;  
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-   &nbsp;  
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-   &nbsp;
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  &nbsp;
-</p>
 <br>
 <p align="center">
 📚 Experiences:
