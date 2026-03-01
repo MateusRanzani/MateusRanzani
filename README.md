@@ -17,7 +17,8 @@ I began my journey in programming as a front-end developer.
 <br>
 <p align="center">
 📚 Experiences:
-<a href="https://www.irroba.com.br/"> <br>📌 Developer in Irroba  (Currently) </a>
+<a href="https://www.eddydata.com.br/"> <br>📌 Developer in Eddydata (Currently) </a>
+<a href="https://www.irroba.com.br/"> <br>📌 Developer in Irroba</a>
 <a href="https://esquadros.com.br/"> <br>📌 Developer in Esquadros </a>
 <a href="https://www.copyprint.com.br/"> <br>📌 Graphic designer in CopyPrint </a>
 </p>
