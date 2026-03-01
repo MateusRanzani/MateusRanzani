@@ -13,15 +13,6 @@ I am currently completing my degree in Systems Analysis and Development at UNINT
 I currently work as a Full Stack programmer and have experience as a graphic designer.
 I began my journey in programming as a front-end developer.
 </p>
-
-<br>
-<p align="center">
-📚 Experiences:
-<a href="https://www.eddydata.com.br/"> <br>📌 Developer in Eddydata (Currently) </a>
-<a href="https://www.irroba.com.br/"> <br>📌 Developer in Irroba</a>
-<a href="https://esquadros.com.br/"> <br>📌 Developer in Esquadros </a>
-<a href="https://www.copyprint.com.br/"> <br>📌 Graphic designer in CopyPrint </a>
-</p>
 <br>
 <p align="center">
   Contact links: ⤵️
